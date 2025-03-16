@@ -1,5 +1,5 @@
 # Advanced HTML CSS Learning Projects (Projetos de Aprendizado de HTML e CSS Avançados)
-Projets developed during the course "HTML5 and CSS3: Advanced Techniques" from Udemy | Projetos desenvolvidos durante o Curso "HTML5 e CSS3: Técnicas Avançadas" da Udemy
+Projects developed during the course "HTML5 and CSS3: Advanced Techniques" from Udemy | Projetos desenvolvidos durante o Curso "HTML5 e CSS3: Técnicas Avançadas" da Udemy
 
 ## 1 - Grocery Store (Loja de Doces)
 Development of a HTML CSS web page for a fictional grocery store.
